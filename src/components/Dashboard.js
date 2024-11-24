@@ -128,8 +128,8 @@ const Dashboard = () => {
                             <FontAwesomeIcon icon={faCalendarAlt} className="text-gray-400 text-2xl cursor-pointer hover:text-blue-500" />
                         </div>
                         <div className=' align-bottom'>
-                        <p className='font-semibold text-2xl'>Achintya</p>
-                        <p className='font-slim text-sm'>Maharashtra, India</p>
+                        <p className='font-semibold text-2xl'>The todo</p>
+                        <p className='font-slim text-sm'>Just to do..</p>
                         </div>
                     </div>
                 </div>
